@@ -1,0 +1,209 @@
+{
+"categories": [
+    {"id": 1, "title": "Fridges"},
+    {"id": 2, "title": "Kettles"},
+    {"id": 3, "title": "Televisions"}
+],
+
+"products": [
+    
+            {"id": 1, 
+            "catId": 1, 
+            "title": "Beko White Fridge Freezer",
+            "productCode": "BFFD3577",
+            "image": "10213776.jpg",
+            "price": 579,
+            "sku": "577318",
+            "description": "The Beko BFFD3577 Integrated Tall Freezer has been designed to relieve you of stress as you can purchase in large quantity and store for continuous use, It also protects your food stuff and beverages from microorganisms breeding",
+            "specs": {"dimensions": "177.5 * 54 * 54.5cm (H * W * D)", "capacity": "220 litres"},
+            "features": ["220 litre capacity", "Premium inox finish", "120 hours cooling retention", "Low voltage operation", "Anti rust body"],
+            "stock": 20
+    },
+    {
+        "id": 2,
+         "catId":1,
+          "title": "Essentials Undercounter Fridges Silver",
+          "productCode": "CUL55520",
+          "image": "11634234.jpg",
+          "price": 369,
+          "sku": "287494",
+          "description": "Keep your food tasting great in the Essentials CUL55520 Undercounter, they come in amazing energy-efficient capacities and space-saving designs that are simply perfect and will not alter the aesthetics of your living area.",
+          "specs": {"dimensions": "84.5 * 55.3 * 58.4 cm (H * W * D)", "capacity": "131 litres"},
+          "features": ["Adjustable Thermostat", "Removable Storage Basket", "Easy to clean interior", "Fast Freezing Function", "High Efficiency Compressor"],
+          "stock": 5
+    },
+
+    {
+        "id": 3,
+         "catId":1,
+          "title": "Kenwood HTLD60x20 Tall Fridge",
+          "productCode": "KTLD60X20",
+          "image": "13245678.jpg",
+          "price": 449,
+          "sku": "287103",
+          "description": "Attractive design\n\nThe Kenwood KTLD60X20 Tall Fridge is spacious and practical with a sleek and has food freshness feature to keep your fruit and veg fresh ",
+          "specs": {"dimensions": "185.5 * 59.5 * 71.2 cm (H * W * D)", "capacity": "370 litres"},
+          "features": ["Soft Line Design", "Inside light", "Front Control Panel with Super Freezing Function", "Durable High Effciency saving compressor"],
+          "stock": 10
+    },
+
+    {
+        "id": 4,
+         "catId":1,
+          "title": "Haier Thermocool Upright Freezer 180 Litres",
+          "productCode": "BLSD3577",
+          "image": "10213201.jpg",
+          "price": 500,
+          "sku": "784324",
+          "description": "The Haier Thermocool Ice making Upright Freezer has a LARGE CAPACITY FOR ICE MAKING within the shortest possible time.You can load in bulk groceries, tubs of ice cream, whole chicken, Cow\"s thigh and more without any fear of breaking the freezer.",
+          "specs": {"dimensions": "84.5 * 55.3 * 58.4 cm (H * W * D)", "capacity": "180 litres"},
+          "features": ["Large capacity for ice making ","Double wire layer evaporator", "Strong trays for loading", "Super fast cooling speed", "High Efficiency Compressor"],
+          "stock": 4
+    },
+
+    {
+        "id": 5,
+         "catId":1,
+          "title": "ZANUSSI MultiFlow ZRME38FW2 Tall Fridge White",
+          "productCode": "ZRME38FW2",
+          "image": "11023456.jpg",
+          "price": 554,
+          "sku": "670811",
+          "description": "MultiFlow technology\n\n The Zanussi MultiFlow ZRME38FW2 Tall Fridge uses <b>MultiFlow technology to keep your food </b> at its very best. It keeps the temperature stable, with cool air reaching every part of the fridge.\n\nThat means your food would last longer and stay fresh at all time ",
+          "specs": {"dimensions": "186 * 59.5 * 64.5 cm (H * W * D)", "capacity": "380 litres"},
+          "features": ["Auto defrost","Compact size","Food freshness feature to keep your fruit and veg fresh", "Fast chill rapidly lowers the temperature inside the fridge"],
+          "stock": 3
+    },
+
+    {"id": 6, 
+    "catId": 3, 
+    "title": "SAMSUNG UE50TU7020KXXU 50\" Smart 4k Ultra HD LED TV",
+    "productCode": "UE50TU7020KXXU",
+    "image": "114315.jpg",
+    "price": 750,
+    "sku": "670811",
+    "description": "Glorious colour\n\nDon\\'t settle for anything less than <br> crystal clear colour</br>. The Samsung UE50TU7020KXXU 50\" smart 4k ultra HD HDR LED TV" ,
+    "specs": {"dimensions": "TV: 643.7 x 1115.8 x 59.5mm (H * W * D) -Boxed: 780 x 1264 x 150 mm (H * W * D) "},
+    "features": ["Crystal display for long-lasting colour & sharp contrast", "Crystal Processor 4K for the best picture & targeted sound", "Picture Quality : 2000 PQI", "HDR : HDR10+ / Hybrid Log-Gamma (HLG)"],
+    "stock": 5
+},
+    
+{"id": 7, 
+    "catId": 3, 
+    "title": "SONY 32LM6370PLA 32\" Smart Full HD Smart TV",
+    "productCode": "32LM6370PLA",
+    "image": "14235679.jpg",
+    "price": 649,
+    "sku": "657462",
+    "description": "Give your favourite movies and box sets a new lease of life with the LG 32LM6370PLA 32\" Smart Full HD HDR LED TV,\n Beautiful HD TV with the clarity and sharpness of X-Reality PRO, Access YouTube and more with built-in Wi-Fi",
+    "specs": {"dimensions": "TV with stand: 464 * 736 * 180 mm (H * W * D)"},
+    "features": ["32-inch HD Smart TV from Sony in black color", "Built-in Wi-Fi for streaming videos", "Slim design and easy wire management", "Motion flow technology offers precise motion clarity", "2.1ch sound bar with built-in subwoofer and Bluetooth connectivity"],
+    "stock": 15
+},
+
+{"id": 8, 
+    "catId": 3, 
+    "title": "LG UE50TU7020KXXU 55\" Smart 4k Ultra HD LED TV",
+    "productCode": "UE50TU7020KXXU",
+    "image": "12456789.jpg",
+    "price": 480,
+    "sku": "670811",
+    "description": "This LG 55UJ630V UHD TV gives you perfect harmony between IPS 4K display and HDR technologies generating highly rich and vibrant visuals. With enhanced multi HDR delivering lifelike picture canvassed on an IPS 4K Display.",
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D)"},
+    "features": ["Ultra HD 4K resolution", "A vibrant and vivid picture from any angle", "Supports 4K Streaming & Upscaler standard definition pictures"],
+    "stock": 10
+},
+
+{"id": 9, 
+    "catId": 3, 
+    "title": "Samsung 65\" Curved Smart 4K UHD TV | 65TU8300",
+    "productCode": " 65TU8300",
+    "image": "10231377.jpg",
+    "price": 389,
+    "sku": "670811",
+    "description": "Experience crystal clear colors that are fine-tuned to deliver a naturally crisp and vivid picture, The ultra-fast processor transforms everything you watch into stunning 4K",
+    "specs": {"dimensions": "TV with stand: 718.6 * 1115.8 * 250.2mm (H * W * D)"},
+    "features": ["4K UHD TV", "UHD Dimming", "Apple Airplay", "Built-in Wi-Fi"],
+    "stock": 7
+},
+
+{"id": 10, 
+    "catId": 3, 
+    "title": "Samsung LED Smart TV 40\" FHD Slim Screen",
+    "productCode": "UE50TU7020KXXU",
+    "image": "10205942.jpg",
+    "price": 550,
+    "sku": "670811",
+    "description": "Samsung LED Smart TV allows you watch content with better clarity and detailed color expression\n Samsung FHD TV gives you more accurate details in bright and dark scenes",
+    "specs": {"dimensions": "1920 x 1080mm (H * W * D)"},
+    "features": ["Dynamic Contrast Ratio: Mega Contrast", "Video Picture Engine: HyperReal", "Display Features: Full HD", "Display Size (inches): 40.0"],
+    "stock": 2
+},
+
+{"id": 11, 
+    "catId": 2, 
+    "title": "OVENTE Electric Kettle 1.7 Litres",
+    "productCode": "UE50TU7020KXYX",
+    "image": "kettle1.jpg",
+    "price": 250,
+    "sku": "670811",
+    "description": "OVENTE Electric Kettle 1.7 Litres Cordless Hot Water Boiler,\n\n 1100W with Automatic Shut-Off and Boil Dry Protection,\n Fast Boiling BPA-Free Portable Instant Heater for Making Tea, Coffee Black KP72B",
+    "specs": {"Kettle measurements": "8.5 x 6.7 x 9.4 inches"},
+    "features": ["Stainless Steel Concealed Heating Element", "Easy-to-Clean Removable Filter", "LED indicator light", "Automatic shut-off and boil-dry protection"],
+    "stock": 5
+},
+
+{"id": 12, 
+    "catId": 2, 
+    "title": "Natural Instincts Stainless Steel Whistling Kettle 2L",
+    "productCode": "UE50TU7020KXYX",
+    "image": "kettle2.jpg",
+    "price": 349,
+    "sku": "1001062",
+    "description": "Natural Instincts Stainless Steel Whistling Kettle 2L, Perfect kettle for any outdoor experience",
+    "specs": {"Kettle measurements": "8.0 x 6.7 x 9.0 inches"},
+    "features": ["Stainless Steel Concealed Heating Element", "Easy-to-Clean Removable Filter", "Perfect kettle for any outdoor experience", "Automatic shut-off and boil-dry protection"],
+    "stock": 10
+},
+
+{"id": 13, 
+    "catId": 2, 
+    "title": "5-L Automatic Electric Kettle",
+    "productCode": "UE50TU7020KXYX",
+    "image": "kettle3.jpg",
+    "price": 500,
+    "sku": "1001065",
+    "description": "5-L Automatic Electric Kettle is essential to have as kitchen equipment,\nIt is used in getting quick hot water for bathing,cooking, and making meals as the shiny smooth finishing body design offers you hot water every day with a simple style that is just perfect for your kitchen.",
+    "specs": {"Kettle measurements": "7.0 x 6.5 x 9.0 inches, Weight: 1.0kg, Color: Dark Silver"},
+    "features": ["Perfect for gifts", "Essential for every home", "Great value for money", "Quick heat up"],
+    "stock": 3
+},
+
+{"id": 14, 
+    "catId": 2, 
+    "title": "HadinEEon Electric Kettle",
+    "productCode": "UE50TU7020KXMM",
+    "image": "kettle4.jpg",
+    "price": 450,
+    "sku": "1002062",
+    "description": "HadinEEon Electric kettle.\n Ideal for every tea or Coffee lover food grade material it's made with glass & stainless steel.",
+    "specs": {"Kettle measurements": "12.10 x 9.20 x 7.50 Inches (30.7 x 23.4 x 19.1 cm)"},
+    "features": ["Stain-Resistant", "Cordless", "Removable", "Auto Shut-Off", "Blue LED light"],
+    "stock": 4
+},
+
+{"id": 15, 
+    "catId": 2, 
+    "title": "Kambrook Baroque Kettle 1.7L",
+    "productCode": "UE50TU7020KXMS",
+    "image": "kettle6.jpg",
+    "price": 600,
+    "sku": "1002062",
+    "description": "Kambrook Baroque\n. Ideal for every tea or Coffee lover food grade material it's made with glass & stainless steel.",
+    "specs": {"dimensions": "(21.0cm x 21.0cm x 16.6cm)", "width": "1.2kg", "height": "25.2cm"} ,
+    "features": ["2200W concealed element", "1.7L/ 7 cup capacity", "Multi-directional", "cord-free kettle", "Boil dry protection", "Stylish", "matte finish with copper accents"],
+    "stock": 8
+}
+    
+]
+}
